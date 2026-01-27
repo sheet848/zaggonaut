@@ -5,7 +5,7 @@
 baseUrl = "http://zaggonaut.dev"
 
 [_.globalMeta]
-title = "Zaggonaut"
+title = "Sheetal Naik"
 description = "Retro-Inspired Theme & Built for Astro"
 longDescription = "Zaggonaut is a retro-inspired theme for Astro, built using TypeScript, TailwindCSS, and Astro."
 cardImage = "https://zaggonaut.dev/michael-dam-unsplash.webp"
