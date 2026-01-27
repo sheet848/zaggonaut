@@ -1,6 +1,6 @@
 ---
 title: React Admin Dashboard
-slug: react-admin-dashbaord
+slug: dashboard
 description: Enterprise dashboard with advanced data tables and chart visualizations
 longDescription: Enterprise dashboard with advanced data tables and chart visualizations
 cardImage: "https://zaggonaut.dev/michael-dam-unsplash.webp"
