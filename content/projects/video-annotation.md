@@ -1,6 +1,6 @@
 ---
 title: Video Annotation Tool
-slug: video
+slug: video-annotation
 description: Video annotation app with timestamp capture and playback synchronization
 longDescription: Video annotation app with timestamp capture and playback synchronization
 cardImage: "https://zaggonaut.dev/michael-dam-unsplash.webp"
