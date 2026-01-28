@@ -1,10 +1,10 @@
 ---
-title: A Basic Introduction to HTML
-slug: intro-to-html
+title: Understanding TypeScript
+slug: understanding-typescript
 description: Understanding TypeScript via project building
 longDescription: Understanding TypeScript via project building
 cardImage: "https://zaggonaut.dev/michael-dam-unsplash.webp"
-tags: ["code", "html"]
+tags: ["typescript"]
 readTime: 15
 featured: true
 timestamp: 2024-12-18T02:39:03+00:00
