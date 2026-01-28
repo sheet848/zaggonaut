@@ -8,33 +8,33 @@ baseUrl = "https://zaggurat-portfolio.netlify.app"
 title = "Sheetal Naik | Frontend Developer Portfolio"
 description = "Professional portfolio"
 longDescription = "Zaggonaut is a retro-inspired theme for Astro, built using TypeScript, TailwindCSS, and Astro."
-cardImage = "https://zaggonaut.dev/michael-dam-unsplash.webp"
+cardImage = "https://file.garden/aL51CH2cBBf7c9wl/portfolio-images/profile-image.png"
 keywords = ["web development", "design", "technology"]
 
 [_.blogMeta]
 title = "Sheetal's Blog"
 description = "Practical wisdom, unfiltered thoughts, and hot takes."
 longDescription = "Web development, tech trends, and the occasional programming mishap."
-cardImage = "https://zaggonaut.dev/michael-dam-unsplash.webp"
+cardImage = "https://file.garden/aL51CH2cBBf7c9wl/portfolio-images/profile-image.png"
 keywords = ["web development", "design", "technology"]
 
 [_.projectMeta]
 title = "Sheetal's Projects"
 description = "A list of my web development projects and developer tools."
 longDescription = "All of my projects, including both frontend and full-stack applications."
-cardImage = "https://zaggonaut.dev/michael-dam-unsplash.webp"
+cardImage = "https://file.garden/aL51CH2cBBf7c9wl/portfolio-images/profile-image.png"
 keywords = ["web development", "design", "technology"]
 
 [_.notFoundMeta]
 title = "404 Not Found"
 description = "The page you are looking for does not exist."
 longDescription = "The page you are looking for does not exist. Maybe it never existed. Spooky."
-cardImage = "https://zaggonaut.dev/michael-dam-unsplash.webp"
+cardImage = "https://file.garden/aL51CH2cBBf7c9wl/portfolio-images/profile-image.png"
 
 [_.hero]
 title = "Sheetal Naik"
 subtitle = "Frontend / React Developer"
-image = "https://zaggonaut.dev/michael-dam-unsplash.webp"
+image = "https://file.garden/aL51CH2cBBf7c9wl/portfolio-images/profile-image.png"
 ctaText = "View Projects"
 ctaUrl = "/projects"
 
