@@ -19,7 +19,8 @@ const { data: config } = await getConfigurationCollection();
 <ul class="my-8">
   {
     (featuredProjects.length === 0 && <p>{config.texts.noProjects}</p>) ||
-      featuredProjects
+      [...featuredProjects]
+		.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp))
     	.slice(0, 2)
 		.map((project) => (
         <li>
