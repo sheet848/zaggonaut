@@ -6,6 +6,7 @@ longDescription: Enterprise dashboard with advanced data tables and chart visual
 cardImage: "https://zaggonaut.dev/michael-dam-unsplash.webp"
 tags: ["react", "formik", "material-ui"]
 githubUrl: https://github.com/sheet848/admin-dashboard
+liveUrl: https://admin-dashboard-react-she12.vercel.app
 timestamp: 2024-05-12T02:39:03+00:00
 featured: true
 ---
