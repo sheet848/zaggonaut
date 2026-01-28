@@ -19,14 +19,17 @@ const { data: config } = await getConfigurationCollection();
 <ul class="my-8">
   {
     (featuredProjects.length === 0 && <p>{config.texts.noProjects}</p>) ||
-      featuredProjects.map((project) => (
+      [...featuredProjects]
+		.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp))
+    	.slice(0, 2)
+		.map((project) => (
         <li>
           <ProjectSnippet
             title={project.title}
             description={project.description}
             url={project.url}
             githubUrl={project.githubUrl}
-            liveUrl={project.liveDemoUrl}
+            liveUrl={project.liveUrl}
             tags={project.tags ?? []}
           />
         </li>
