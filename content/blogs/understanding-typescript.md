@@ -7,7 +7,7 @@ cardImage: "https://zaggonaut.dev/michael-dam-unsplash.webp"
 tags: ["typescript"]
 readTime: 15
 featured: true
-timestamp: 2024-12-18T02:39:03+00:00
+timestamp: 2026-01-20T02:39:03+00:00
 ---
 
 # Understanding TypeScript: Building a Fitness App

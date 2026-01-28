@@ -6,6 +6,7 @@ longDescription: Video annotation app with timestamp capture and playback synchr
 cardImage: "https://zaggonaut.dev/michael-dam-unsplash.webp"
 tags: ["react", "redux", "javascript"]
 githubUrl: https://github.com/sheet848/video-annotate
+liveUrl: https://video-annotate.vercel.app
 timestamp: 2025-04-11T02:39:03+00:00
 featured: true
 ---
