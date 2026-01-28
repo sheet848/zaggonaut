@@ -1,5 +1,6 @@
 ---
 import { getConfigurationCollection } from "../../lib/utils";
+import Anchor from "./common/Anchor.astro";
 
 const { data: config } = await getConfigurationCollection();
 ---
@@ -22,7 +23,7 @@ const { data: config } = await getConfigurationCollection();
       <p set:html={config.hero.subtitle}/>
     </h2>
     <div class="flex gap-2">
-        <Anchor url={githubUrl} class="text-base" external>
+        <Anchor url="https://file.garden/aL51CH2cBBf7c9wl/portfolio-images/profile-image-new.png" class="text-base" external>
             Resume
         </Anchor>
     </div>
