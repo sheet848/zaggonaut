@@ -6,6 +6,7 @@ longDescription: Serverless AI tool providing ATS scores and resume feedback
 cardImage: "https://zaggonaut.dev/michael-dam-unsplash.webp"
 tags: ["react", "typescript", "tailwindcss", "puter.js","claude-sonnet"]
 githubUrl: https://github.com/sheet848/ai-resume-analyzer
+liveUrl: https://ai-resume-analyzer-she12.vercel.app
 timestamp: 2025-07-22T02:39:03+00:00
 featured: true
 ---
