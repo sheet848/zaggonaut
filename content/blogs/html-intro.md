@@ -1,5 +1,5 @@
 ---
-title: Understanding TypeScript: Building a Fitness App
+title: A Basic Introduction to HTML
 slug: intro-to-html
 description: Understanding TypeScript via project building
 longDescription: Understanding TypeScript via project building
