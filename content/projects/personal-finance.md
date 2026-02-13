@@ -4,7 +4,7 @@ slug: personal-finance
 description: A modern personal finance dashboard built with Next.js and Supabase for tracking transactions, recurring bills, and spending insights.
 longDescription: A full-featured personal finance dashboard application featuring real-time transaction tracking, recurring bill management, advanced filtering and sorting, spending analytics with interactive charts, secure authentication, and a clean, responsive interface—built with Next.js, TypeScript, Tailwind CSS, and Supabase.
 cardImage: "https://zaggonaut.dev/michael-dam-unsplash.webp"
-tags: ["nextjs", "typescript", "tailwindcss", "supabase","authentication", "postgreSQL"]
+tags: ["nextjs", "typescript", "tailwindcss", "supabase"]
 githubUrl: https://github.com/sheet848/Personal-Finance-App
 liveUrl: https://personal-finance-nextreact.vercel.app/
 timestamp: 2026-02-13T02:39:03+00:00
