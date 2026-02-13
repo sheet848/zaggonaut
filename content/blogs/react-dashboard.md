@@ -7,7 +7,7 @@ cardImage: "https://zaggonaut.dev/michael-dam-unsplash.webp"
 tags: ["react", "formik", "material-ui"]
 readTime: 2
 featured: true
-timestamp: 2026-01-20T02:39:03+00:00
+timestamp: 2026-01-04T02:39:03+00:00
 ---
 
 # Building a Production-Ready Admin Dashboard with React & Material-UI
