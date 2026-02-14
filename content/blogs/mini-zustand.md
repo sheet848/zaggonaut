@@ -1,4 +1,14 @@
-# Build your own mini Zustand / Jotai
+---
+title: Build your own mini Zustand / Jotai
+slug: mini-zustand
+description: Build your own mini zustand or jotai in eleven lines
+longDescription: Build your own mini zustand or jotai in eleven lines
+cardImage: "https://zaggonaut.dev/michael-dam-unsplash.webp"
+tags: ["zustand", "jotai", "redux", "javascript"]
+readTime: 10
+featured: true
+timestamp: 2026-02-14T02:39:03+00:00
+---
 
 Before reaching for Zustand, Jotai, Redux, or signals - it’s worth seeing the core idea in plain JavaScript.
 
