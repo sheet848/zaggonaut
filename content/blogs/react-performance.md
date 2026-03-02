@@ -123,15 +123,6 @@ const useWindowSize = () => {
 
 ```
 
-### Technique: Production Checklist
-| Technique | Tool/Metric | FPS Gain |
-|*************|**************|*************|
-| Memoization | React Profiler | 50% |
-| Virtualization | react-window | 90% on lists |
-| Lazy Loading | Suspense | 70% init load |
-| Bundle Split | Vite Analyzer | 80% size |
-| Keys Fixed | Console warnings | 30% |
-
 ## Checklist:
 - Run Lighthouse >90 score.
 - `<StrictMode>` in dev.
