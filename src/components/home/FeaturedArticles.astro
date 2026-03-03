@@ -20,6 +20,7 @@ const { data: config } = await getConfigurationCollection();
   {
     (featuredArticles.length === 0 && <p>{config.texts.noArticles}</p>) ||
       [...featuredArticles]
+		.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp))
 		.slice(0, 2)
 		.map((article) => (
         <li>
