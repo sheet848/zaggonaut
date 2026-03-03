@@ -19,7 +19,9 @@ const { data: config } = await getConfigurationCollection();
 <ul class="my-8">
   {
     (featuredArticles.length === 0 && <p>{config.texts.noArticles}</p>) ||
-      featuredArticles.map((article) => (
+      [...featuredArticles]
+		.slice(0, 2)
+		.map((article) => (
         <li>
           <ArticleSnippet
             title={article.title}
