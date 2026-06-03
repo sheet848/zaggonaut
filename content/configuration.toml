@@ -8,7 +8,7 @@ baseUrl = "https://sheetalnaik.netlify.app"
 title = "Sheetal Naik | Frontend Developer Portfolio"
 description = "Professional portfolio"
 longDescription = "Zaggonaut is a retro-inspired theme for Astro, built using TypeScript, TailwindCSS, and Astro."
-cardImage = "https://sheetalnaik.netlify.app/computer-head.jpg"
+cardImage = "https://file.garden/aL51CH2cBBf7c9wl/portfolio-images/computer-head.jpg"
 keywords = ["web development", "design", "technology"]
 
 [_.blogMeta]
